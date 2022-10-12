@@ -17,9 +17,9 @@ The following results are presented in ascending levels of performance, starting
 
  * **ClusterCentroids**
 
- <img width="151" alt="cc_as" src="https://user-images.githubusercontent.com/107579508/195461475-ad763795-cf75-4d95-91ba-8d9cffe3a735.png">
+ <img width="1510" alt="cc_as" src="https://user-images.githubusercontent.com/107579508/195461475-ad763795-cf75-4d95-91ba-8d9cffe3a735.png">
 
- <img width="311" alt="cc_cm" src="https://user-images.githubusercontent.com/107579508/195461482-87656afc-d53f-4000-84ec-d993d3329274.png">
+ <img width="3110" alt="cc_cm" src="https://user-images.githubusercontent.com/107579508/195461482-87656afc-d53f-4000-84ec-d993d3329274.png">
 
 
  * **SMOTE**
